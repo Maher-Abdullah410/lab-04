@@ -2,3 +2,7 @@ int num1 = 2;
 int num2 = 4;
 int sum =num 1 +num2;
 Console.Writeline("the num is sum");
+int num1 = 3;
+int num2 = 5;
+int subtract =num 1 +num2;
+Console.Writeline("the num is sum");

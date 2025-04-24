@@ -5,3 +5,9 @@ int b = Convert.ToInt32(Console.ReadLine());
 
 int result = a + b;
 Console.Write("Result: " + result);
+Console.WriteLine("Enter first number ");
+int h = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter second number");
+int m = Convert.ToInt32(Console.ReadLine());
+int subresult = h/m;
+Console.Write("subresult: " + subresult);
