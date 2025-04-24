@@ -6,3 +6,7 @@ int num1 = 3;
 int num2 = 5;
 int subtract =num 1 +num2;
 Console.Writeline("the num is sum");
+int num1 = 4;
+int num2 = 8;
+int mltiply =num 1 *num2;
+Console.Writeline("the num is multiply");
