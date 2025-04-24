@@ -1,0 +1,4 @@
+int num1 = 2;
+int num2 = 4;
+int sum =num 1 +num2;
+Console.Writeline("the num is sum");
